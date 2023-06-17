@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN & Android**
 
-- 👨‍💻 My portfolio [https://gajendra-ingle.netlify.app/](https://gajendraingle.netlify.app/)
+- 👨‍💻 My portfolio [https://gajendraingle.netlify.app/](https://gajendraingle.netlify.app/)
 
 - 💬 Ask me about **Web development**
 
