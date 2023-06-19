@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on **College app** -->
 
-- 🌱 I’m currently learning **MERN & Android**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 My portfolio [https://gajendraingle.netlify.app/](https://gajendraingle.netlify.app/)
 
