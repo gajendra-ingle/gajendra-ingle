@@ -50,7 +50,7 @@ src="https://github-readme-stats.vercel.app/api?username=gajendra-ingle&show_ico
 <br/>
 <br/>
 
-## 📈 Graph
+<h3 align="left">📈 Graph</h3>
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
