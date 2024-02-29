@@ -93,11 +93,11 @@
 <h3 align="left">📊 My Github Stats</h3>
    <br/>
 <a href="https://github.com/gajendra-ingle/github-readme-stats">
-<img alt="gajendra-ingle Github Stats" 
+<img align="center" height="175px" alt="gajendra-ingle Github Stats" 
 src="https://github-readme-stats.vercel.app/api?username=gajendra-ingle&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   <a href="https://github.com/gajendra-ingle/github-readme-stats">
-    <img alt="Gajendra Ingle Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendra-ingle&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img align="center" height="175px" alt="Gajendra Ingle Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendra-ingle&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   
 <br/>
@@ -132,3 +132,5 @@ src="https://github-readme-stats.vercel.app/api?username=gajendra-ingle&show_ico
         width="40" />
   </a>
 </p>
+
+<!-- <p align="right" > Created with ❤ by <a href="https://github.com/gajendra-ingle">Gajendra Ingle</a></p> -->
