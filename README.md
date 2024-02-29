@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gajendra Ingle</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendra-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="gajendra-ingle" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendra-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="gajendra-ingle" /> </p> 
 
 - 🌱 I’m currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. ❤
