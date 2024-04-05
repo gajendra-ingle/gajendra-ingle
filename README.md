@@ -105,11 +105,11 @@ src="https://github-readme-stats.vercel.app/api?username=gajendra-ingle&show_ico
 
 <!--  __________________________________ Graph __________________________________ -->
 
-<h3 align="left">📈 Graph</h3>
+  <!-- <h3 align="left">📈 Graph</h3>
   <p align="center">
       <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
   </p>
-<br/> <br/>
+<br/> <br/> -->
 
 
 <!--  __________________________________ Connect with me  __________________________________ -->
