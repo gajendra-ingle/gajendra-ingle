@@ -80,6 +80,16 @@ src="https://github-readme-stats.vercel.app/api?username=gajendra-ingle&show_ico
         height="30" 
         width="40" />
   </a>
+
+   <a href=" https://twitter.com/GajendraIngle_" target="blank">
+   <img align="center" 
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+        alt="GajendraIngle_" 
+        height="30" 
+        width="40" />
+  </a>
+
+ 
 </p>
 
 <!-- <p align="right" > Created with ❤ by <a href="https://github.com/gajendra-ingle">Gajendra Ingle</a></p> -->
