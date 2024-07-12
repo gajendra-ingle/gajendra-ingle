@@ -7,7 +7,7 @@
 <!--  __________________________________ About Me __________________________________ -->
 <h3 align="left">🙋‍♂️ About Me</h3>
                                
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Java Full Stack Development**
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. ❤
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 💬 Ask me about **Web development**
