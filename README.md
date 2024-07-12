@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Java Full Stack Development**
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. ❤
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Java & Web**
 - 📘 I’m Currently Studying **New New Tech Stack for Expanding My Skills set and Knowledge**
 - 📫 How to reach me **gajendraingle01@gmail.com**
 - 🔗 Connect Me on [**Linkedin**](https://linkedin.com/in/gajendra-ingle)
