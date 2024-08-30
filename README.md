@@ -22,7 +22,7 @@
 <h3 align="left">🚀 Languages and Tools </h3>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,react,nodejs,express,postman,mongodb,mysql,git,github,vscode,figma,notion,npm&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,react,spring,nodejs,express,postman,mongodb,mysql,git,github,eclipse,vscode,figma,notion,npm&perline=8" />
 
 </div>
 <hr>
