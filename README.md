@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif"> -->
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendra-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="gajendra-ingle" /> </p> 
-
+ 
 <!--  __________________________________ About Me __________________________________ -->
 <h3 align="left">🙋‍♂️ About Me</h3>
                                
@@ -14,7 +14,7 @@
 - 📘 I’m Currently Studying **New New Tech Stack for Expanding My Skills set and Knowledge**
 - 📫 How to reach me **gajendraingle01@gmail.com**
 - 🔗 Connect Me on [**Linkedin**](https://linkedin.com/in/gajendra-ingle)
-- 👨‍💻 My portfolio [https://gajendraingle.netlify.app/](https://gajendraingle.netlify.app/)
+<!-- - 👨‍💻 My portfolio [https://gajendraingle.netlify.app/](https://gajendraingle.netlify.app/) -->
 - 👁‍🗨 What's Special about me? <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 
