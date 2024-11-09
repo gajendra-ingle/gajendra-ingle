@@ -28,11 +28,9 @@
 <hr>
 <br/>
 
-<!--  __________________________________ Streak stats __________________________________ -->
+<!--  __________________________________ Streak  __________________________________ -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-     <img src="https://streak-stats.demolab.com?user=gajendra-ingle&theme=tokyonight-duo&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=600&border=222222" alt="GitHub Streak" />
-  </a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajendra-ingle" alt="gajendra-ingle" />
 </p>
 <br/> 
 
