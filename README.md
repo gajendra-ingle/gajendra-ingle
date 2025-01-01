@@ -14,7 +14,7 @@
 - 📘 Currently expanding my skills with **Spring Boot, Hibernate, and Angular**
 - 📫 How to reach me **gajendraingle01@gmail.com**
 - 🔗 Connect Me on [**Linkedin**](https://linkedin.com/in/gajendra-ingle)
-  👨‍💻 My portfolio [https://gajendraingle.netlify.app/](https://gajendraingle.netlify.app/) 
+- 👨‍💻 My portfolio [https://gajendraingle.netlify.app/](https://gajendraingle.netlify.app/) 
 - 👁‍🗨 What's Special about me? <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 
