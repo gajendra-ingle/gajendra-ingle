@@ -21,7 +21,7 @@
 <h3 align="left">🚀 Languages and Tools </h3>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,hibernate,html,css,tailwind,angular,mysql,git,github,eclipse,vscode,postman,figma,notion,maven,npm&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,hibernate,html,css,tailwind,angular,mysql,git,github,eclipse,vscode,postman,figma,notion,maven,npm,api&perline=8" />
 
 </div>
 <hr>
@@ -61,23 +61,8 @@ src="https://github-readme-stats.vercel.app/api?username=gajendra-ingle&show_ico
 <!--  __________________________________ Connect with me  __________________________________ -->
 
 <h3 align="left">📧 Connect with me </h3>
-<p align="left">
-  <a href="https://linkedin.com/in/gajendra-ingle" target="blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       
-         alt="gajendra-ingle-016282174" 
-         height="30" 
-         width="40"/>  
-  </a>
- 
-  <a href="https://instagram.com/gajendra.ingle" target="blank">
-   <img align="center" 
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="gajendra.ingle" 
-        height="30" 
-        width="40" />
-  </a>
- 
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/gajendra-ingle) 
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/gajendra.ingle) 
 
 <!-- <p align="right" > Created with ❤ by <a href="https://github.com/gajendra-ingle">Gajendra Ingle</a></p> -->
