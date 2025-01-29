@@ -27,13 +27,6 @@
 <hr>
 <br/>
 
-<!--  __________________________________ Streak  __________________________________ -->
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajendra-ingle" alt="gajendra-ingle" />
-</p>
-<br/> 
-
-
 <!--  __________________________________ My Github Stats __________________________________ -->
 
 <h3 align="left">📊 My Github Stats</h3>
