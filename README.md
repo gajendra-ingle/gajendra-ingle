@@ -1,61 +1,52 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Gajendra Ingle</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif"> -->
+<h2 align="left">Hi Developers 👋!</h2>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendra-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="gajendra-ingle" /> </p> 
- 
-<!--  __________________________________ About Me __________________________________ -->
-<h3 align="left">🙋‍♂️ About Me</h3>
-                               
-- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. ❤
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 💬 Ask me about **Java & Web**
-- 📘 Currently expanding my skills with **Spring Boot, Hibernate, and Angular**
-- 📫 How to reach me **gajendraingle01@gmail.com**
-- 🔗 Connect Me on [**Linkedin**](https://linkedin.com/in/gajendra-ingle)
-- 👨‍💻 My portfolio [https://gajendraingle.netlify.app/](https://gajendraingle.netlify.app/) 
-- 👁‍🗨 What's Special about me? <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
+I'm a passionate Java Full Stack Developer with a strong understanding of core Java, Spring Boot, and front-end technologies. I have hands-on experience in creating REST APIs and building web applications. I enjoy solving problems and constantly improving my coding skills through coding challenges.
 
-<!--  __________________________________ Languages and Tools __________________________________ -->
-<h3 align="left">🚀 Languages and Tools </h3>
-<br/>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,hibernate,html,css,tailwind,angular,mysql,git,github,eclipse,vscode,postman,figma,notion,maven,npm,api&perline=8" />
+---
 
-</div>
-<hr>
-<br/>
+### 🔧 **Technologies & Tools**
 
-<!--  __________________________________ My Github Stats __________________________________ -->
+#### 🚀 **Backend Skills**
+- **Languages**: Java, Spring Framework, Spring Boot, Hibernate, Microservices
+- **APIs**: RESTful APIs
+- **Databases**: MySQL  
+- **Design Patterns**: Singleton, Factory, Observer, Builder, SAGA, etc.
 
-<h3 align="left">📊 My Github Stats</h3>
-   <br/>
-<a href="https://github.com/gajendra-ingle/github-readme-stats">
-<img align="center" height="175px" alt="gajendra-ingle Github Stats" 
-src="https://github-readme-stats.vercel.app/api?username=gajendra-ingle&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+#### 🎨 **Frontend Skills**
+- **Frameworks/Libraries**: Angular
+- **Languages**: HTML, CSS, JavaScript
 
-  <a href="https://github.com/gajendra-ingle/github-readme-stats">
-    <img align="center" height="175px" alt="Gajendra Ingle Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendra-ingle&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  
-<br/>
-<br/>
+#### 🛠 **DevOps Skills** (learning) 
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, CI/CD pipelines
+- **Cloud Platforms**:
+  - **AWS Services**: 
+    - EC2 (Elastic Compute Cloud)
+    - ECS (Elastic Container Service)
+    - ECR (Elastic Container Registry)
+    - EKS (Elastic Kubernetes Service)
+    - S3 (Simple Storage Service)
+    - RDS (Relational Database Service)
+    - AWS Lambda
+    - IAM (Identity and Access Management)
 
-<!--  __________________________________ Graph __________________________________ -->
+#### ⚡ **Apache Tools**
+- **Apache Kafka**: Distributed streaming platform for building real-time data pipelines and streaming applications.
 
-   <h3 align="left">📈 Graph</h3>
-  <p align="center">
-      <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-  </p>
-<br/> <br/> 
+#### 🛡️ **Other Skills**
+- **Version Control**: Git, GitHub  
+- **IDE**: Eclipse, VSCode 
+- **Tools**: Postman, Swagger 
 
+---
 
-<!--  __________________________________ Connect with me  __________________________________ -->
+### 🤝 **Let's Connect**
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or check out my repositories for more exciting work!
 
-<h3 align="left">📧 Connect with me </h3>
+- [LinkedIn](https://linkedin.com/in/gajendra-ingle)
+- [Portfolio](https://gajendraingle.netlify.app/)
+- [Instagram](https://instagram.com/gajendra.ingle)
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/gajendra-ingle) 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/gajendra.ingle) 
-
-<!-- <p align="right" > Created with ❤ by <a href="https://github.com/gajendra-ingle">Gajendra Ingle</a></p> -->
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=gajendra-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="gajendra-ingle" />
+</p>
