@@ -1,6 +1,6 @@
 <h2 align="left">Hi Developers 👋!</h2>
 
-I'm a passionate Java Full Stack Developer with a strong understanding of core Java, Spring Boot, and front-end technologies. I have hands-on experience in creating REST APIs and building web applications. I enjoy solving problems and constantly improving my coding skills through coding challenges.
+I'm a passionate **Java Full Stack Developer** with a strong understanding of core Java, Spring Boot, and front-end technologies. I have hands-on experience in creating REST APIs and building web applications. I enjoy solving problems and constantly improving my coding skills through coding challenges.
 
 ---
 
