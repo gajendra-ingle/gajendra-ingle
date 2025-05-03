@@ -22,8 +22,6 @@ I'm a passionate **Java Full Stack Developer** with a strong understanding of co
 - **Cloud Platforms**:
   - **AWS Services**: 
     - EC2 (Elastic Compute Cloud)
-    - ECS (Elastic Container Service)
-    - ECR (Elastic Container Registry)
     - EKS (Elastic Kubernetes Service)
     - S3 (Simple Storage Service)
     - RDS (Relational Database Service)
