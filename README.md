@@ -13,7 +13,7 @@ I'm a passionate **Java Full Stack Developer** with a strong understanding of co
 - **Design Patterns**: Singleton, Factory, Observer, Builder, SAGA, etc.
 
 #### 🎨 **Frontend Skills**
-- **Frameworks/Libraries**: Angular
+- **Frameworks/Libraries**: React, Angular
 - **Languages**: HTML, CSS, JavaScript
 
 #### 🛠 **DevOps Skills** (learning) 
