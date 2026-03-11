@@ -3,6 +3,11 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Gajendra%20Ingle&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Pune%2C%20India&descSize=16&descAlignY=60&descAlign=50" width="100%"/>
 
+
+<!-- Typing Animation -->
+<!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies&center=true&width=500&height=45"> -->
+
+
 </div>
 
 I'm a passionate **Java Full Stack Developer** with a strong understanding of core Java, Spring Boot, and front-end technologies. I have hands-on experience in creating REST APIs and building web applications. I enjoy solving problems and constantly improving my coding skills through coding challenges.
@@ -48,7 +53,6 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 - [LinkedIn](https://linkedin.com/in/gajendra-ingle)
 - [Portfolio](https://gajendraingle.netlify.app/)
-- [Instagram](https://instagram.com/gajendra.ingle)
 
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=gajendra-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="gajendra-ingle" />
