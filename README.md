@@ -1,4 +1,9 @@
-<h2 align="left">Hi Developers 👋 </h2>
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Gajendra%20Ingle&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Pune%2C%20India&descSize=16&descAlignY=60&descAlign=50" width="100%"/>
+
+</div>
 
 I'm a passionate **Java Full Stack Developer** with a strong understanding of core Java, Spring Boot, and front-end technologies. I have hands-on experience in creating REST APIs and building web applications. I enjoy solving problems and constantly improving my coding skills through coding challenges.
 
@@ -48,3 +53,8 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=gajendra-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="gajendra-ingle" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <em>"Learn something new every day." 🚀</em>
+</div>
