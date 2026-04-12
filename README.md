@@ -62,3 +62,14 @@ I'm always open to collaborating on interesting projects or discussing new ideas
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&animation=fadeIn" width="100%"/>
   <em>"Learn something new every day." 🚀</em>
 </div>
+
+<!--
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gajendra-ingle&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gajendra-ingle&theme=dark&hide_border=false)
+<br/>
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gajendra-ingle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ -->
